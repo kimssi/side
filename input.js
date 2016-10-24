@@ -14,7 +14,7 @@ var io;
             this.COIN = 0x43;
             this.LEFT = 0x25;
             this.RIGHT = 0x27;
-            this.SPACE = 0x20;
+            this.SPACE = 0x5a;//was 0x20
             this.P = 0x50;
             this.RESET = 0x52;
             this.document = document;
